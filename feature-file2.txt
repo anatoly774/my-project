@@ -1,0 +1,2 @@
+lala new text 2
+new file after deleting previous version
